@@ -1,0 +1,34 @@
+/* styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 20px;
+}
+
+/* Headings */
+h1 {
+    color: blue;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: green;
+    margin-top: 20px;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px;
+}
+
+/* List */
+ul {
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+li {
+    margin: 5px 0;
+}
+
